@@ -6,6 +6,8 @@ import 'package:projects/constants/constants.dart';
 import 'package:projects/views/bottom_nav.dart';
 
 void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+
   await SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
   ]);

@@ -1,0 +1,1 @@
+ /Users/peniayewu/untitled\ folder/flutter_engr/.dart_tool/flutter_build/4c9f5affa8f9bad3a76fc6256aadb131/native_assets.yaml: 
